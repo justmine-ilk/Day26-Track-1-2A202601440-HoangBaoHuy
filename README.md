@@ -169,3 +169,16 @@ holdout set, secret và log chấm có dữ liệu cá nhân không thuộc bả
 - Không đưa dữ liệu khách hàng, hợp đồng chưa redacted hoặc secret vào bài/chatbot.
 - AI có thể critique; học viên chịu trách nhiệm cuối cùng về nguồn, ngưỡng và luật.
 - Repo ignore toàn bộ `submissions/` trừ `.gitkeep` để giảm nguy cơ push nhầm.
+
+## Bài nộp TutorAI Vietnam — 2A202601440
+
+Bài Day 26 của Hoàng Bảo Huy dùng hai đầu vào Day 24–25 để chuyển mô hình
+TutorAI Vietnam thành operating dashboard B2C. Các số kế hoạch (ARPU 199.000
+VND, COGS trực tiếp 54.000 VND/tháng, Cost/Job 2.250 VND, containment 80% và
+gross margin 72,9%) được giữ nguyên nguồn gốc là giả định/mô hình, không phải
+kết quả pilot. Các metric chưa đo được có event hoặc evidence plan, owner và
+ngày có số cụ thể.
+
+- [Worksheet nguồn](deliverables/2A202601440/HoangBaoHuy_Day26_operating-dashboard.md)
+- [Dashboard một trang](deliverables/2A202601440/HoangBaoHuy_Day26_one-page-dashboard.md)
+- [PDF hai trang](deliverables/2A202601440/HoangBaoHuy_Day26_dashboard.pdf)
